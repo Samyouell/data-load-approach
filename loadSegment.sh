@@ -1,0 +1,21 @@
+#!/bin/bash
+python3 neo4jAISSegment.py 1 20 &
+python3 neo4jAISSegment.py 21 40 &
+python3 neo4jAISSegment.py 41 60 &
+python3 neo4jAISSegment.py 61 80 &
+python3 neo4jAISSegment.py 81 100 &
+python3 neo4jAISSegment.py 101 120 &
+python3 neo4jAISSegment.py 121 140 &
+python3 neo4jAISSegment.py 141 160 &
+python3 neo4jAISSegment.py 161 180 &
+python3 neo4jAISSegment.py 181 200 &
+python3 neo4jAISSegment.py 201 220 &
+python3 neo4jAISSegment.py 221 240 &
+python3 neo4jAISSegment.py 241 260 &
+python3 neo4jAISSegment.py 261 280 &
+python3 neo4jAISSegment.py 281 300 &
+python3 neo4jAISSegment.py 301 320 &
+python3 neo4jAISSegment.py 321 340 &
+python3 neo4jAISSegment.py 341 360 &
+python3 neo4jAISSegment.py 361 380 &
+python3 neo4jAISSegment.py 381 400 &

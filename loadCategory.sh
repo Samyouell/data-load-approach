@@ -1,0 +1,22 @@
+#!/bin/bash
+python3 neo4jAISCategory.py 1 60 &
+python3 neo4jAISCategory.py 61 120 &
+python3 neo4jAISCategory.py 121 180 &
+python3 neo4jAISCategory.py 181 240 &
+python3 neo4jAISCategory.py 241 300 &
+python3 neo4jAISCategory.py 301 360 &
+python3 neo4jAISCategory.py 361 420 &
+python3 neo4jAISCategory.py 421 480 &
+python3 neo4jAISCategory.py 481 540 &
+python3 neo4jAISCategory.py 541 600 &
+python3 neo4jAISCategory.py 601 660 &
+python3 neo4jAISCategory.py 661 720 &
+python3 neo4jAISCategory.py 721 780 &
+python3 neo4jAISCategory.py 781 840 &
+python3 neo4jAISCategory.py 841 900 &
+python3 neo4jAISCategory.py 901 960 &
+python3 neo4jAISCategory.py 961 1020 &
+python3 neo4jAISCategory.py 1021 1080 &
+python3 neo4jAISCategory.py 1081 1140 &
+python3 neo4jAISCategory.py 1141 1200 &
+python3 neo4jAISCategory.py 1201 1260 &
